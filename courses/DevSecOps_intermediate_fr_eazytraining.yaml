@@ -1,0 +1,22 @@
+id: null
+name: DevSecOps  Sécuriser vos applications et infrastructures à l’ère du Cloud
+url: https://eazytraining.fr/cours/devsecops-securiser-vos-applications-et-infrastructures-a-lere-du-cloud-et-du-devops/
+duration_hours: 8
+level: Intermediate
+objectives: vous aider à combler cette lacune, en vous donnant les compétences nécessaires pour sécuriser efficacement vos applications et infrastructures.
+description: >
+Avec la révolution numérique, la plupart des entreprises sont confrontées à des enjeux majeurs en matière de sécurité de l’information. D’après le rapport de Cybersécurité Ventures, les dommages liés à la cybercriminalité coûteront au monde 10 trillions de dollars annuellement d’ici 2025, soit une augmentation de 100% depuis 2018. De plus, la transformation vers le Cloud et les méthodologies DevOps amplifient ces enjeux.
+
+Dans ce contexte, DevSecOps émerge comme une solution cruciale. En intégrant la sécurité dès le début du cycle de développement des logiciels, DevSecOps réduit les risques et accélère le processus de mise sur le marché. Cependant, selon le rapport de Gartner, seulement 20% des entreprises ont adopté une approche DevSecOps en 2022.
+prerequisites:  avoir de bonnes bases sur git (https://eazytraining.fr/cours/introduction-a-git/)
+                avoir de bonnes bases sur Docker (https://eazytraining.fr/cours/introduction-a-docker/)
+                avoir de bonnes bases sur kubernetes (https://eazytraining.fr/cours/kubernetes-les-bases-pour-devops/)
+                avoir de bonnes bases sur Gitlab-ci  https://eazytraining.fr/cours/gitlab-ci-cd-pour-devops/
+technologies:
+  - Docker
+  - Containers
+  - kubernetes
+  - git 
+  - gitlab
+language: French
+deprecated: false
