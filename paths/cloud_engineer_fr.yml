@@ -1,0 +1,21 @@
+id: null
+name: Cloud Engineer Path
+target_role: Cloud Engineer
+course_ids:
+  - courses/linux_administration_et_administration_intermediate_fr_eazytraining.yaml
+  - courses/introduction_aux_reseaux_informatiques_avec_cisco_beginner_fr_eazytraining.yaml
+  - courses/aws_beginner_fr_eazytraining.yaml
+  - courses/azure_fundamental_beginner_fr_eazytraining.yaml
+  - courses/devenez_aws_certified_associate_architect_et_sysops_intermediate_fr_eazytraining.yaml
+  - courses/azure_administrator_intermediate_fr_eazytraining.yaml
+  - courses/introduction_a_git_beginner_fr_eazytraining.yaml
+  - courses/terraform_basics_beginner_fr_eazytraining.yaml
+  - courses/terraform_cloud_intermediate_fr_eazytraining.yaml
+  - courses/docker_intro_beginner_fr_eazytraining.yaml
+  - courses/kubernetes_les_bases_intermediate_fr_eazytraining.yaml
+  - courses/aws_pour_devops_intermediate_fr_eazytraining.yaml
+  - courses/azure_devops_intermediate_fr_eazytraining.yaml
+prerequisites: Connaissances de base en administration des systèmes, des réseaux et Git.
+url: https://eazytraining.fr/parcours-cloud/
+language: French
+deprecated: false

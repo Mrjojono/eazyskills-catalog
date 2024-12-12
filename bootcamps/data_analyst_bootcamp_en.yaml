@@ -1,0 +1,24 @@
+id: null
+name: Bootcamp Data Analyst
+target_role: Data Analyst
+prerequisites: 
+  Être informaticien ou avoir des connaissances en informatique.
+  Avoir des bases en analyse de données est un atout.
+url: https://eazytraining.fr/%C3%A9v%C3%A8nement/bootcamp-data-analyst/
+modules:
+  - Module 00: Introduction au métier de Data Analyst (rôles et responsabilités)
+  - Module 01: Introduction à l’analyse de données
+  - Module 02: Maîtriser les fondamentaux des bases de données (SQL, NoSQL)
+  - Module 03: Comprendre les statistiques et leur rôle dans l’analyse de données
+  - Module 04: Apprentissage des outils d’analyse (Excel, Power BI, Tableau)
+  - Module 05: Manipulation et visualisation de données avec Python (Pandas, Matplotlib, Seaborn)
+  - Module 06: Introduction au Big Data et ses outils (Hadoop, Spark)
+  - Module 07: Nettoyage et préparation des données
+  - Module 08: Analyse exploratoire des données (EDA)
+  - Module 09: Prévisions et modélisation de données (Excel, Python, et outils avancés)
+  - Module 10: Présentation de cas d'usage réels
+  - Module 11: Automatisation des tâches d’analyse de données
+  - Module 12: Préparation aux certifications Data Analyst (Microsoft Certified Data Analyst Associate, Tableau Certification, etc.)
+duration_weeks: 12
+language: French
+deprecated: false
